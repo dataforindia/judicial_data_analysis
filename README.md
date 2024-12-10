@@ -14,3 +14,7 @@ The process to analyse data for all three parts has been documented in the pages
   1. [Analysis of acts](docs/process-all-acts.md). 
   2. [Analysis of IPC sections](docs/process-all-sections.md).
   3. [Analysis of section 302 of the IPC](docs/process-section-302.md).
+
+
+#### License
+This project is licensed under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) License. You are free to share and adapt the material with proper attribution.
