@@ -1,4 +1,4 @@
-The process to analyse cases registered under all acts is as follows:
+The process to analyse cases registered under all IPC sections is as follows:
  1. Filter out pending cases from the cases dataset
  2. Aggregate the IPC acts dataset to filter out acts which have less than 100 cases
  3. Remove all cino with multiple entries in the acts file
