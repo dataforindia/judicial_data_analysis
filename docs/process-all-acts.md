@@ -1,7 +1,7 @@
 
 The process to analyse cases registered under all acts is as follows:
  1. Filter out pending cases from the cases dataset
- 2. Filter out unwanted/unclear act names. Check the [unclear_act_names](resources/unclear_act_names.md) file for details.
+ 2. Filter out unwanted/unclear act names. Check the [unclear_act_names](resources/group-of-acts/unclear_act_names.md) file for details.
  3. Aggregate the state acts file to filter out acts which have less than 500 cases
  4. Merge the acts file with the case details file to get the year value for cases 
  5. Ensure that all cino have only one unique year value. Filter the cino's which have more than one value for the year variable

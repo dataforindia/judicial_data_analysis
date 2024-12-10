@@ -13,4 +13,4 @@ The objective of this exercise is to analyse the functioning of courts over the 
 The process to analyse data for all three parts has been documented in the pages below:
   1. [Analysis of acts](docs/process-all-acts.md). 
   2. [Analysis of IPC sections](docs/process-all-sections.md).
-  3. [Analysis of section 302 of the IPC](docs/process-ipc-section-302.md).
+  3. [Analysis of section 302 of the IPC](docs/process-section-302.md).
