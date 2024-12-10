@@ -11,7 +11,8 @@ The process to analyse cases registered under all acts is as follows:
  9. Format (convert to lower case and remove extra spaces) all act names.
  10. Standardise the acts as per the mappings mentioned [here](resources/group_of_acts/)
  11. Aggregate the act file to calculate total number of cases, mean and median duration of cases for each act, state, year. In this step, cases with a negative duration value are not considered for further analysis. Acts with less than 100 cases for each state and year are removed from the dataset.
- 12. Create additional variables for ranking as per the total number of cases under each section. The ranks variables are as follows:
+ 12. Create additional variables for ranking as per the total number of cases under each acts. The ranks variables are as follows:
+ 
     - Overall 
     - Across each year (from 2010-2020)
     - Across each state
