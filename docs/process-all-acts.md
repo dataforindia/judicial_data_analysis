@@ -12,9 +12,9 @@ The process to analyse cases registered under all acts is as follows:
  10. Standardise the acts as per the mappings mentioned [here](resources/group_of_acts/)
  11. Aggregate the act file to calculate total number of cases, mean and median duration of cases for each act, state, year. In this step, cases with a negative duration value are not considered for further analysis.
  12. Create additional variables for ranking as per the total number of cases under each act. The ranks variables are as follows: 
-    1. Overall 
-    2. Across each year (from 2010-2020)
-    3. Across each state
-    4. Across each state each year
+   1. Overall 
+   2. Across each year (from 2010-2020)
+   3. Across each state
+   4. Across each state each year
 
 Note: The [raw data files](https://devdatalab.org/judicial-data#links) published by [DevDataLab](https://devdatalab.org/) were converted to [parquet files](https://parquet.apache.org/) to reduce query run times. The entire analysis was conducted on parquet files and the results were converted to csv files for creating data visualisations.
